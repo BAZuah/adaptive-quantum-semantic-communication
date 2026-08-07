@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+data/cifar-10-batches-py/
+
+results/*
+!results/paper_results/
+!results/paper_results/**
+
+.DS_Store
+.idea/
+.vscode/
